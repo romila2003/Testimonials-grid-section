@@ -27,16 +27,16 @@ Users should be able to:
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Testimonials-grid-section/blob/main/Mobile%20preview.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Testimonials-grid-section/blob/main/Desktop%20preview.PNG)
 
 ### Links
 
- - Source code: []()
- - Live website: []()
+ - Source code: [https://github.com/romila2003/Testimonials-grid-section](https://github.com/romila2003/Testimonials-grid-section)
+ - Live website: [https://romila-testimonials-grid-section.netlify.app/](https://romila-testimonials-grid-section.netlify.app/)
 
 ## My process
 
